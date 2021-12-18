@@ -2,10 +2,10 @@
   "name": "htbah",
   "title": "How to be a Hero",
   "description": "How to be a Hero - das Regelwerk deiner Wahl. Wir stehen für Einsteigerfreundlichkeit, Einfachheit und Freiheit.",
-  "author": "Julian",
+  "author": "Julian & Fabian",
   "version": 0.01,
-  "minimumCoreVersion": "0.7.7",
-  "compatibleCoreVersion": "0.7.9",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.9",
   "esmodules": [
     "modules/main.js"
   ],
@@ -34,7 +34,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": null,
   "url": "https://github.com/julr/htbah",
-  "manifest": "https://raw.githubusercontent.com/julr/htbah/main/system.json",
-  "download": "https://github.com/julr/htbah/archive/main.zip",
+  "manifest": "https://raw.githubusercontent.com/fpottbaecker/htbah/testing/system.json",
+  "download": "https://github.com/fpottbaecker/htbah/archive/testing.zip",
   "license": "License.txt"
 }
